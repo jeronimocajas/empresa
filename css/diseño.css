@@ -1,0 +1,84 @@
+body{
+    background-color: #3d32c6;
+}
+
+
+.container{
+    display: grid;
+   grid-template-columns: 80% auto;
+}
+
+.Derecha{
+    margin-top: 7%;
+}
+
+.logo{
+    margin-top: 2%;
+    display: flex;
+    width: 500px;
+    margin-left: 5%;
+}
+
+
+
+
+.navbar{
+    display: flex;
+    background-color:#3d32c6;
+}
+
+.buscador{
+    
+    margin-top: 3%;
+    margin-left: 40%;
+    width: 100%;
+
+}
+
+.buscador > a{
+    padding-left: 2%;
+    text-decoration: none;
+    color: white;
+    background-color: #3d32c6;
+    
+}
+
+.container1{
+    margin-left: 5%;
+    margin-top: 0%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #3d32c6;
+}
+
+.imagen1{
+    display: flex;
+    width: 100%;
+    
+}
+
+.imagen1 > img{
+   width: 550px;
+   height: 550px; 
+   margin-bottom: 10%;
+   margin-right: 40px;
+   margin-left: 20%;
+
+   
+}
+
+.container2{
+    width: 125%;
+    margin-top: 0%;
+    display: grid;
+    grid-template-columns: auto auto auto; 
+    
+}
+
+.titulo{
+    text-align: center;
+}
+
+
+
+
